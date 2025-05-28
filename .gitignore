@@ -1,0 +1,18 @@
+/build/
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java Build
+bin/
+*.class
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# 기타 로그
+*.log
