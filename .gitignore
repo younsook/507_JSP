@@ -1,4 +1,3 @@
-/build/
 
 
 # Eclipse
@@ -8,6 +7,7 @@
 
 # Java Build
 bin/
+/build/
 *.class
 
 # OS/System files
@@ -16,3 +16,6 @@ Thumbs.db
 
 # 기타 로그
 *.log
+
+# Eclipse metadata 폴더 제외
+src/.metadata/
