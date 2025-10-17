@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>웹소켓 채팅</title>
+<title>웹소켓 채팅2</title>
 <script>
 	var webSocket = new WebSocket(
 			"<%= application.getInitParameter("CHAT_ADDR")%>/ChatingServer");

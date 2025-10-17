@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>웹소켓 채팅</title>
+<title>웹소켓 채팅update2</title>
 </head>
 
 <body>
