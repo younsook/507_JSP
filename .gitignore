@@ -1,0 +1,33 @@
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java Build
+bin/
+/build/
+*.class
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# 기타 로그
+*.log
+
+# Eclipse metadata 폴더 제외
+src/.metadata/
+
+
+# META-INF와 WEB-INF는 제외
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/
+
+# 빌드 산출물 제외
+target/
+build/
+*.war
+*.jar
+
